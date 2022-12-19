@@ -1,1 +1,1 @@
-# colab-traingin
+# colab-training
